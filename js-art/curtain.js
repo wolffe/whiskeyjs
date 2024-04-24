@@ -1,5 +1,4 @@
 c.style.background = '#0f7';
-c.width = 900;
 
 x.beginPath();
 for (n = 4000; n--;) {
